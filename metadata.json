@@ -1,0 +1,7 @@
+{
+  "name": "HP Care AI",
+  "description": "AI-powered diagnostic tool for HP laptops. Detect external damage, screen issues, and keyboard defects using advanced computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
